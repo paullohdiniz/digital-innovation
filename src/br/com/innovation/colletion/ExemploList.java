@@ -10,6 +10,8 @@ public class ExemploList {
         //List<String> nomes = Arrays.asList("Juliana", "Pedro", "Carlos", "Larrisa", "Joao");
         List<String> nomes = new ArrayList<>();
 
+        //Carlos", "Pedro", "Maria", "Natália", "Diego", "Matheus",
+
         nomes.add("Juliana");
         nomes.add("Pedro");
         nomes.add("Carlos");
