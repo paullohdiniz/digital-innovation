@@ -1,4 +1,4 @@
-package br.com.innovation.colletion.br.com.innovation.colletion.map;
+package br.com.innovation.colletion.map;
 
 import java.util.HashMap;
 import java.util.Map;
