@@ -21,6 +21,7 @@ public class ExemploFuture {
 interface AtividadeCasa{
     void realizar();
 }
+
 class Casa{
     private List<Comodo> comodos;
 
